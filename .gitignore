@@ -399,3 +399,8 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+.tool-versions
+# agent
+.claude/
+.agent/
